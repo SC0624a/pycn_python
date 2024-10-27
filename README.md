@@ -1,0 +1,2 @@
+# pycn_python
+一款在不改变python语法将中文转译成python的项目，此项目只为娱乐如有雷同纯属巧合
